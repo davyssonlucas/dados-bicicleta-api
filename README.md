@@ -1,6 +1,8 @@
 # Desafio de Dados: Consumindo API de Aluguel de Bicicleta
 https://colab.research.google.com/gist/ricosuhete/4672c186a61857523ff94286e6f58bed/api_openweathermap.ipynb#scrollTo=kT1ExmSTC0I3
 
+# Status: EM ANDAMENTO
+
 # Etapa atual:
 #### As soluções dos problemas foram atendidas, porém o código precisa ser refatorado. Também será necessária uma análise minuciosa da solução apresentada para que ela atenda plenamente ao que foi solicitado.
 
